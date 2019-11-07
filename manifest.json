@@ -1,0 +1,13 @@
+{
+  "name": "Occasionally Frustrated",
+  "short_name": "Occasionally Frustrated",
+  "icons": [
+    {
+      "src": "launcher-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/occ_fru/",
+  "display": "standalone"
+}
